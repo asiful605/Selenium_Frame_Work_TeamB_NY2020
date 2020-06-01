@@ -139,8 +139,8 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
-                        <suiteXmlFiles>target/test-classes/AmazonTestRunner.xml</suiteXmlFiles>
-                        <!--                        <suiteXmlFile>target/test-classes/CNNTestRunner.xml</suiteXmlFile>-->
+                         <suiteXmlFiles>target/test-classes/AmazonTestRunner.xml</suiteXmlFiles>
+                        <!-- <suiteXmlFile>target/test-classes/CNNTestRunner.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
